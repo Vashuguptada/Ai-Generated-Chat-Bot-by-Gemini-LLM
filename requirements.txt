@@ -1,0 +1,16 @@
+streamlit
+google-generativeai
+python-dotenv
+pathlib
+IPython
+langchain
+google-ads
+langchain_experimental
+PyPDF2
+chromadb
+faiss-cpu
+
+#pip install -q -U google-generativeai
+#https://makersuite.google.com/app/apikey
+
+
